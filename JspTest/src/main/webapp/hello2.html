@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+		<!-- 그냥쓰면 입력받은값= 쿼리값으로 전달
+		method 쓰면 = 긴문장  -->
+		<div>
+			<Form action="notice-reg" method="post">  <!-- 서블릿매핑값, 서블릿 매핑값하고 맞춰야함 -->
+		<div>
+			<label>제목:</label><input name="title" type="text">
+		</div>
+		<div>
+			<label>내용</label>
+			<textarea name="content"></textarea>
+			
+		</div>
+		<div>
+			
+			<input type="submit" value="등록"/>
+		</div>
+	</Form>
+</div>
+</body>
+</html>
