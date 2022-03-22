@@ -1,4 +1,4 @@
-# JSP--Servlet
+# JSP-Servlet
 
 - Spring Boot 를 학습하기전 웹통신의 기본을 학습한뒤 학습한 Servelt -JSP 연습 공간 입니다.
 
